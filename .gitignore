@@ -1,2 +1,4 @@
 node-modoules/
 *.txt
+!a.txt
+.vscode/
